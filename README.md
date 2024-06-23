@@ -73,11 +73,12 @@ bash get_html.sh
 ```
 Run the `deploy` script to automate deployment of the website 
 
-```
+-----
 
 ### Clean Up Deployment(Optional)
 
 Delete docker images and containers used to host the website
+
 ```bash
 cd bash-scripts/
 bash clean_up.sh 
