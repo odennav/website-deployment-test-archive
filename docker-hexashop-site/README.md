@@ -1,6 +1,6 @@
 -----
 
-[](https://github.com/odennav/docker-nginx-hexashop/blob/main/docs/hexashop-shot.PNG) 
+![](https://github.com/odennav/website-deployment-test-archive/blob/main/docker-hexashop-site/docs/hexashop-shot.PNG) 
 
 
 

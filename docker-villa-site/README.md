@@ -1,6 +1,6 @@
 
 -----
 
-[](https://github.com/odennav/docker-nginx-villa/blob/main/docs/villa-shot.PNG) 
+![](https://github.com/odennav/website-deployment-test-archive/blob/main/docker-villa-site/docs/villa-shot.PNG) 
 
 

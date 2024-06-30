@@ -1,6 +1,6 @@
 
 -----
 
-[](https://github.com/odennav/docker-nginx-tiya/blob/main/docs/tiya-shot.PNG) 
+![](https://github.com/odennav/website-deployment-test-archive/blob/main/docker-tiya-site/docs/tiya-shot.PNG) 
 
 
